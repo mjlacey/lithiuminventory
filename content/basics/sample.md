@@ -28,6 +28,8 @@ This should work but may need to use https to do so. Does not work to serve Shin
 
 ## Get involved
 
+(Testing; for local testing Disqus should not appear.)
+
 <!-- Disqus -->
 <div id="disqus_thread"></div>
 <script>
@@ -41,6 +43,10 @@ This should work but may need to use https to do so. Does not work to serve Shin
     };
     */
     (function() { // DON'T EDIT BELOW THIS LINE
+    // Don't ever inject Disqus on localhost--it creates unwanted
+    // discussions from 'localhost:1313' on your Disqus account...
+    if (window.location.hostname == "localhost")
+        return;
     var d = document, s = d.createElement('script');
     s.src = 'https://lithiuminventory.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
