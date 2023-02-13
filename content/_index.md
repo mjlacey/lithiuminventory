@@ -6,7 +6,7 @@ title = "Lithium Inventory"
 Lithium Inventory is intended to be a knowledge hub for battery science and electrochemistry written by practitioners for practitioners.
 
 {{% notice info %}}
-This is a very early draft of the general theme, and content will come much later. If interested in contributing, please reach out to ML.
-{{% /notice %}}
+This venture is in a very early stage and content will come later. In the meantime, you can read the [principles](/more/principles) on which this site is founded and intended to become.
 
-This is a test addition.
+If interested in contributing, please reach out to ML.
+{{% /notice %}}

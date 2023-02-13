@@ -1,7 +1,9 @@
 ---
+archetype: "contentpage"
 title: "Sample page"
 date: 2023-02-09T14:44:03+01:00
 draft: false
+tags: ["sample"]
 ---
 
 {{% notice style="note" %}}
@@ -30,4 +32,4 @@ This should work but may need to use https to do so. Does not work to serve Shin
 
 (Testing; for local testing Disqus should not appear.)
 
-{{% disqus %}}
+
