@@ -15,11 +15,15 @@ These principles are not finalised and are subject to change (and discussion).
 
 * Current, relevant, written foremost by practitioners, for practitioners
 
+* Laid out in a clean and modern template, enabling effortless readability regardless of platform
+
 * Educational material of the highest quality, aiming to provide value to new entrants to the field and experienced researchers alike
 
 * Valuing teaching of concepts, critical thinking and transferable knowledge over lists of facts and figures
 
 * Free and accessible to all regardless of affiliation or geographical location
+
+* Self-correcting through continuous review/reader comments
 
 * Striving for neutrality in matters of politics and competition
 

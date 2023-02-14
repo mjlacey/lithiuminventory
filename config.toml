@@ -113,11 +113,16 @@ disqusShortname = 'lithiuminventory'
     url = "tags/"
     weight = 40
 
-    [[Languages.en.menu.shortcuts]]
+  [[Languages.en.menu.shortcuts]]
     name = "<i class='fas fa-solid fa-address-card'></i> About"
     identifier = ""
     url = "more/about"
     weight = 60
+
+  [[Languages.en.menu.shortcuts]]
+    name = "<i class='fas fa-solid fa-route'></i> Content Roadmap"
+    url = "more/content-roadmap"
+    weight = 80
 
 # settings specific to this theme's features; choose to your likings and
 # consult this documentation for explaination
