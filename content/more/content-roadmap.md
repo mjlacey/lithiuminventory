@@ -27,8 +27,11 @@ The *Battery fundamentals* chapter should provide a general introduction to batt
 - [ ] **Reaction kinetics in Li-ion batteries.** Models of reaction kinetics, resistance in porous electrodes (e.g. de Levie transmission line)
 - [ ] **Mass transport in Li-ion batteries.** Mass transport in the solid state. Mass transport in non-aqueous electrolytes, transference number, concentrated solution theory
 - [ ] **Reversibility and lifetime.** Introduction to major ageing mechanisms and modes (interfacial layer growth, loss of contact, structural degradation, lithium plating, etc.). Introduction of concepts such as loss of active material (LAM) and loss of lithium inventory (LLI).
+- [ ] **Thermal behaviour.** Reversible and irreversible heat.
 - [ ] **Performance and metrics.** Introduction to key metrics and key performance indicators (KPIs), common performance plots.
 - [ ] **History of Li-ion battery development.** Timeline, major milestones, major names
+- #### Cell development
+- [ ] **Cell formats and cell design.** Cylindrical, pouch, prismatic. Electrode thickness, material ratios...
 
 ## Battery materials
 
@@ -37,6 +40,8 @@ The **Battery materials** chapter should provide an introduction to the chemistr
 - [ ] **Introduction to major Li-ion battery families.** graphite || layered oxide (LCO, NMC, NCA), LFP, LMO, LTO; LMP (Lithium-metal-polymer)
 - [ ] **Positive electrode materials**. LCO, NMC, NCA, LMO, LFP
 - [ ] **Negative electrode materials.** Graphite, LTO. Introduction to silicon and lithium metal
+- [ ] **Electrolytes.** Materials, key properties; conductivity, transference number, viscosity, vapour pressure...
+- [ ] **Separators.** Materials, key properties; MacMullin number, Gurley number, thermal stability...
 - #### Electrode material research
 - [ ] **Mn-rich.**
 - #### Electrolyte material research
@@ -70,9 +75,19 @@ The *Experimental electrochemical methods* chapter should provide explanations o
     - [ ] Three- and four-electrode measurements
     - [ ] Fitting example with real data
     - [ ] Exercise in data analysis
+- [ ] **Advanced EIS.**
+    - [ ] Distribution of relaxation times (DRT)
+    - [ ] Dynamic EIS
+    - [ ] Drift correction methods
+    - [ ] Analytical applications
 - [ ] **Direct current methods**. DCIR, ICI
 - [ ] **Diffusion coefficient measurement.** GITT, PITT
 - [ ] **Transference number measurement.** Bruce-Vincent method, Hittorf method, Balsara-Newman methods
+- #### Best practices
+- [ ] **Experimental design.**
+- [ ] **Recording data.**
+- [ ] **Data presentation.**
+- [ ] **Data transparency.** Availability, journal checklists, etc.
 
 ## Experimental material characterisation methods
 
@@ -89,3 +104,9 @@ The *Battery industry* chapter could provide an introduction to how the industry
 ## Explainers/deep dives
 
 The *Explainers/deep dives* section could be a loosely-structured collection of deep dives into specific topics, papers, either because of media interest, controversy, significance in the field...
+
+## More
+
+- [ ] Nomenclature and definitions
+- [ ] Community - other related initiatives
+- [ ] Editorial policy and style guide
