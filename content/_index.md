@@ -3,6 +3,8 @@ archetype = "home"
 title = "Lithium Inventory"
 +++
 
+## A home for battery science
+
 Lithium Inventory is intended to be a knowledge hub for battery science and electrochemistry written by practitioners for practitioners.
 
 {{% notice info %}}

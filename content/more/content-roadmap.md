@@ -5,6 +5,11 @@ date: 2023-02-14T20:24:48+01:00
 draft: false
 ---
 
+<div style="text-align: right">
+{{% badge style="transparent" icon="pen" %}}Matthew Lacey{{% /badge %}}
+{{% badge style="blue" icon="calendar" %}}15 Feb 2023{{% /badge %}}
+</div>
+
 {{% notice style="info" %}}
 This page is in draft form and in a very early stage. ML welcomes discussion and suggestions during the configuration phase!
 {{% /notice %}}
@@ -64,8 +69,8 @@ The *Experimental electrochemical methods* chapter should provide explanations o
 - #### Core electrochemical methods
 - [ ] **Galvanostatic cycling.** Capacity and cycle life determination. Coulombic efficiency determination. Rate capability.
 - [ ] **Incremental methods.** Introduction to incremental capacity analysis (dQ/dV), differential voltage analysis (dV/dQ).
-- [ ] **Electrochemical impedance spectroscopy (EIS).**
-    - [ ] Principles of EIS and equivalent circuit modelling
+- [ ] **[Electrochemical impedance spectroscopy (EIS)](/experimental-electrochemistry/eis).**
+    - [x] [Principles of EIS and equivalent circuit modelling](/experimental-electrochemistry/eis/principles)
     - [ ] RC circuits
     - [ ] Constant phase elements
     - [ ] Diffusion impedance. Derivation of the Warburg impedance from Fick's law

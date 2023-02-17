@@ -1,6 +1,6 @@
 +++
 archetype = "chapter"
-title = "Basics"
+title = "Battery fundamentals"
 weight = 1
 +++
 
