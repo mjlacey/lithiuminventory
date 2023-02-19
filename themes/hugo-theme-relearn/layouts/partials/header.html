@@ -52,6 +52,17 @@
     {{- partialCached "stylesheet.html" (dict "page" . "outputFormat" $outputFormat) $outputFormat }}
     {{- partial "custom-header.html" . }}
   </head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NWLHV5QVZQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-NWLHV5QVZQ');
+</script>
+
   <body class="mobile-support {{ $outputFormat }}{{- if .Site.Params.disableInlineCopyToClipBoard }} disableInlineCopyToClipboard{{ end }}" data-url="{{ partial "relLangPrettyUglyURL.hugo" (dict "to" .) }}">
     <div id="body" class="default-animation">
       <div id="sidebar-overlay"></div>
