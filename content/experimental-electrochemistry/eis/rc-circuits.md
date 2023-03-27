@@ -1,9 +1,9 @@
 +++
 archetype = "contentpage"
-title = "2. RC circuits"
+title = "RC circuits"
 weight = 2
 draft = false
-tags = ["EIS", "ECM"]
+tags = ["EIS", "ECM", "RC circuit"]
 +++
 
 {{% notice style="green" title="Overview" icon="eye" %}}

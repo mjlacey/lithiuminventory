@@ -1,8 +1,9 @@
 +++
 archetype = "contentpage"
-title = "5. Diffusion Impedance"
+title = "Diffusion Impedance"
 weight = 5
 draft = false
+tags = ["EIS", "ECM", "Warburg", "Diffusion", "Mass transport"]
 +++
 
 {{% notice style="green" title="Overview" icon="eye" %}}

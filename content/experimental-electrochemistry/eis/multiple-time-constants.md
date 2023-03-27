@@ -1,8 +1,9 @@
 +++
 archetype = "contentpage"
-title = "3. Multiple time constants"
+title = "Multiple time constants"
 weight = 3
 draft = false
+tags = ["EIS", "ECM", "RC circuit", "Analysis", "App"]
 +++
 
 {{% notice info%}}

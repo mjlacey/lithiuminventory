@@ -1,6 +1,6 @@
 +++
 archetype = "contentpage"
-title = "1. Principles of EIS"
+title = "Principles of EIS"
 weight = 1
 draft = false
 tags = ["EIS"]

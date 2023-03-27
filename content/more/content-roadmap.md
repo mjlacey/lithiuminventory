@@ -71,15 +71,17 @@ The *Experimental electrochemical methods* chapter should provide explanations o
 - [ ] **Incremental methods.** Introduction to incremental capacity analysis (dQ/dV), differential voltage analysis (dV/dQ).
 - [ ] **[Electrochemical impedance spectroscopy (EIS)](/experimental-electrochemistry/eis).**
     - [x] [Principles of EIS and equivalent circuit modelling](/experimental-electrochemistry/eis/principles)
-    - [ ] RC circuits
-    - [ ] Constant phase elements
-    - [ ] Diffusion impedance. Derivation of the Warburg impedance from Fick's law
-    - [ ] The Randles circuit
-    - [ ] The Debye circuit
-    - [ ] Data validation - Kramers-Kronig transform
-    - [ ] Three- and four-electrode measurements
-    - [ ] Fitting example with real data
-    - [ ] Exercise in data analysis
+    - [x] [RC circuits](/experimental-electrochemistry/eis/rc-circuits)
+    - [x] [Multiple time constants](/experimental-electrochemistry/eis)
+    - [x] [Constant phase elements](/experimental-electrochemistry/eis/constant-phase-element)
+    - [x] [Diffusion impedance](/experimental-electrochemistry/eis/diffusion-impedance/)
+    - [ ] Derivation of the Warburg impedance from Fick's law
+    - [x] [The Randles circuit](/experimental-electrochemistry/eis/randles-circuit)
+    - [x] [The Debye circuit](/experimental-electrochemistry/eis/debye-circuit/)
+    - [x] [Data validation - Kramers-Kronig transform](/experimental-electrochemistry/eis/kramers-kronig)
+    - [x] [Three- and four-electrode measurements](/experimental-electrochemistry/eis/three-four-electrodes)
+    - [x] [Fitting example with real data](/experimental-electrochemistry/eis/fitting-with-real-data)
+    - [x] [Exercise in data analysis](/experimental-electrochemistry/eis/exercise-in-analysing-eis)
 - [ ] **Advanced EIS.**
     - [ ] Distribution of relaxation times (DRT)
     - [ ] Dynamic EIS

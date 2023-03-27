@@ -1,8 +1,9 @@
 +++
 archetype = "contentpage"
-title = "6. The Randles Circuit"
+title = "The Randles Circuit"
 weight = 6
 draft = false
+tags = ["EIS", "ECM", "Analysis", "Randles circuit", "Diffusion", "Mass transport"]
 +++
 
 {{% notice style="info" %}}

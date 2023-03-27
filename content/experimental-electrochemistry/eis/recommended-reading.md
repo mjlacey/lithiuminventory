@@ -1,6 +1,6 @@
 +++
 archetype = "contentpage"
-title = "11. Recommended Reading"
+title = "Recommended Reading"
 weight = 11
 draft = false
 +++

@@ -1,8 +1,9 @@
 +++
 archetype = "contentpage"
-title = "8. The Kramers-Kronig transform"
+title = "The Kramers-Kronig transform"
 weight = 8
 draft = false
+tags = ["EIS", "ECM", "Analysis", "Validation", "Kramers-Kronig"]
 +++
 
 I will not go into too much detail about the Kramers-Kronig (or, just K-K) transform other than to say that this is a method for validating impedance data, to give you some idea of whether it’s actually possible to fit an equivalent circuit. This is the equation:

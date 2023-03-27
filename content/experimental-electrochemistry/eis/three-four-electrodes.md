@@ -1,8 +1,9 @@
 +++
 archetype = "contentpage"
-title = "9. Three- and four-electrode measurements"
+title = "Three- and four-electrode measurements"
 weight = 9
 draft = false
+tags = ["EIS", "Analysis", "Experimental design"]
 +++
 
 {{% notice style="info" %}}

@@ -1,8 +1,9 @@
 +++
 archetype = "contentpage"
-title = "7. Debye Circuit"
+title = "Debye Circuit"
 weight = 7
 draft = false
+tags = ["EIS", "ECM", "Constant phase element", "Debye circuit", "Polymer electrolyte", "Analysis", "App"]
 +++
 
 {{% notice style="info" %}}

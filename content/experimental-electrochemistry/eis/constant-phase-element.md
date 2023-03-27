@@ -1,8 +1,9 @@
 +++
 archetype = "contentpage"
-title = "4. Constant Phase Elements"
+title = "Constant Phase Elements"
 weight = 4
 draft = false
+tags = ["EIS", "ECM", "Constant phase element"]
 +++
 
 {{% notice style="green" title="Overview" icon="eye" %}}

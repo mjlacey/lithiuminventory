@@ -1,8 +1,9 @@
 +++
 archetype = "contentpage"
-title = "10. Fitting With Real Data"
+title = "Fitting With Real Data"
 weight = 10
 draft = false
+tags = ["EIS", "ECM", "Analysis", "Fitting"]
 +++
 
 {{% notice style="info" %}}

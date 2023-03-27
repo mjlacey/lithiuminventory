@@ -1,8 +1,9 @@
 +++
 archetype = "contentpage"
-title = "12. An Exercise in Analysing EIS data"
+title = "An Exercise in Analysing EIS data"
 weight = 12
 draft = false
+tags = ["EIS", "ECM", "Analysis", "Test yourself"]
 +++
 
 If you've studied all of the previous pages in this series, why not put your new-found skills to the test with a little exercise?
