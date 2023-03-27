@@ -1,7 +1,7 @@
 +++
 archetype = "contentpage"
-title = "Understanding multiple time constants"
-weight = 4
+title = "3. Multiple time constants"
+weight = 3
 draft = false
 +++
 

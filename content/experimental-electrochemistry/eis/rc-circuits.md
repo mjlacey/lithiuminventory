@@ -1,6 +1,6 @@
 +++
 archetype = "contentpage"
-title = "RC circuits"
+title = "2. RC circuits"
 weight = 2
 draft = false
 tags = ["EIS", "ECM"]
