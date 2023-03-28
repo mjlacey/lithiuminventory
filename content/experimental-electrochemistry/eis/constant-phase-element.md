@@ -6,6 +6,11 @@ draft = false
 tags = ["EIS", "ECM", "Constant phase element"]
 +++
 
+<div style="text-align: right">
+{{% badge style="transparent" icon="pen" %}}Matthew Lacey{{% /badge %}}
+{{% badge style="blue" icon="calendar" %}}28 Mar 2023{{% /badge %}}
+</div>
+
 {{% notice style="green" title="Overview" icon="eye" %}}
 
 So far, we’ve looked at the impedance response for some ideal resistors and capacitors and some simple combinations of them. Unfortunately, in electrochemical systems we often encounter processes which don’t have a “real” equivalent electrical component, so we have to invent some. One of the most common such elements is the constant phase element, or CPE.

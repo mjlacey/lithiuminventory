@@ -10,5 +10,5 @@ Lithium Inventory is a new initiative, started in 2023, intended as a free and o
 {{% notice info %}}
 This venture is in a very early stage and the majority of the content will come later. In the meantime, you can read the [principles](/more/principles) on which this site is founded and intended to become, as well as the [Content Roadmap](/more/content-roadmap).
 
-If you are interested in contributing, please reach out to ML.
+If you are interested in contributing, please reach out to [Matt](/more/about/#matthew-j-lacey----editor).
 {{% /notice %}}

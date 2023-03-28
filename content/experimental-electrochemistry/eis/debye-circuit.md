@@ -5,6 +5,10 @@ weight = 7
 draft = false
 tags = ["EIS", "ECM", "Constant phase element", "Debye circuit", "Polymer electrolyte", "Analysis", "App"]
 +++
+<div style="text-align: right">
+{{% badge style="transparent" icon="pen" %}}Matthew Lacey{{% /badge %}}
+{{% badge style="blue" icon="calendar" %}}28 Mar 2023{{% /badge %}}
+</div>
 
 {{% notice style="info" %}}
 This content has been transferred from lacey.se and is not updated for this site yet.

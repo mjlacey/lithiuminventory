@@ -6,6 +6,11 @@ draft = false
 tags = ["EIS", "ECM", "Warburg", "Diffusion", "Mass transport"]
 +++
 
+<div style="text-align: right">
+{{% badge style="transparent" icon="pen" %}}Matthew Lacey{{% /badge %}}
+{{% badge style="blue" icon="calendar" %}}28 Mar 2023{{% /badge %}}
+</div>
+
 {{% notice style="green" title="Overview" icon="eye" %}}
 
 Mass transport processes, such as diffusion, migration and convection, are a key aspect of electrochemical systems. In this subsection, we will look at fundamental models for the effect of diffusion processes on impedance. As with the CPE, we invent some new circuit elements to describe these, but these can be approximated using the familiar resistors and capacitors, as we will see.

@@ -6,6 +6,11 @@ draft = false
 tags = ["EIS", "ECM", "Analysis", "Test yourself"]
 +++
 
+<div style="text-align: right">
+{{% badge style="transparent" icon="pen" %}}Matthew Lacey{{% /badge %}}
+{{% badge style="blue" icon="calendar" %}}28 Mar 2023{{% /badge %}}
+</div>
+
 If you've studied all of the previous pages in this series, why not put your new-found skills to the test with a little exercise?
 
 Below are three plots of _simulated_ impedance data. The data is representative of a symmetrical electrochemical cell, comprising a thin lithium-conducting polymer electrolyte with relatively poor ionic conductivity, sandwiched between two lithium metal electrodes. (Hint: this sort of system is discussed [here](science/eis/simulation-debye-circuit/) and [here](science/transference/).)

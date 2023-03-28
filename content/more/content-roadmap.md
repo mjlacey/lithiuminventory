@@ -7,7 +7,7 @@ draft: false
 
 <div style="text-align: right">
 {{% badge style="transparent" icon="pen" %}}Matthew Lacey{{% /badge %}}
-{{% badge style="blue" icon="calendar" %}}15 Feb 2023{{% /badge %}}
+{{% badge style="blue" icon="calendar" %}}28 Mar 2023{{% /badge %}}
 </div>
 
 {{% notice style="info" %}}
@@ -30,7 +30,7 @@ The *Battery fundamentals* chapter should provide a general introduction to batt
 - [ ] **Thermodynamics of Li-ion batteries.** Electrode potential in intercalation materials, e.g. lattice-gas model. Origin of one- and two-phase behaviour and effect on potential vs charge
 - [ ] **Interfacial processes in Li-ion batteries.** Solid electrolyte interphase (SEI) layer
 - [ ] **Reaction kinetics in Li-ion batteries.** Models of reaction kinetics, resistance in porous electrodes (e.g. de Levie transmission line)
-- [ ] **Mass transport in Li-ion batteries.** Mass transport in the solid state. Mass transport in non-aqueous electrolytes, transference number, concentrated solution theory
+- [ ] **Mass transport in Li-ion batteries.** Mass transport in the solid state. Mass transport in non-aqueous electrolytes, [transference number](/fundamentals/introduction-li-ion/transference/), concentrated solution theory
 - [ ] **Reversibility and lifetime.** Introduction to major ageing mechanisms and modes (interfacial layer growth, loss of contact, structural degradation, lithium plating, etc.). Introduction of concepts such as loss of active material (LAM) and loss of lithium inventory (LLI).
 - [ ] **Thermal behaviour.** Reversible and irreversible heat.
 - [ ] **Performance and metrics.** Introduction to key metrics and key performance indicators (KPIs), common performance plots.
@@ -89,7 +89,7 @@ The *Experimental electrochemical methods* chapter should provide explanations o
     - [ ] Analytical applications
 - [ ] **Direct current methods**. DCIR, ICI
 - [ ] **Diffusion coefficient measurement.** GITT, PITT
-- [ ] **Transference number measurement.** Bruce-Vincent method, Hittorf method, Balsara-Newman methods
+- [x] [**Transference number measurement.**](/experimental-electrochemistry/transference-number-measurement/) Bruce-Vincent method, Hittorf method, Balsara-Newman methods
 - #### Best practices
 - [ ] **Experimental design.**
 - [ ] **Recording data.**

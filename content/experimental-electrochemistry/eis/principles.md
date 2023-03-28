@@ -6,6 +6,12 @@ draft = false
 tags = ["EIS"]
 +++
 
+<div style="text-align: right">
+{{% badge style="transparent" icon="pen" %}}Matthew Lacey{{% /badge %}}
+{{% badge style="blue" icon="calendar" %}}15 Feb 2023{{% /badge %}}
+</div>
+
+
 {{% notice style="green" title="Defence against the dark arts" icon="hat-wizard" %}}
 
 Since you're reading this, you most likely know that as the name suggests, Electrochemical Impedance Spectroscopy (or just EIS, from now on) involves looking at the impedance characteristics of an electrochemical system over a range of frequencies (that'll be the *spectrum* part). And maybe you're thinking about trying your hand at some **equivalent circuit fitting**, which is the ~~dark art~~ process of fitting a spectrum you've measured to a model based on some real (and some not real) electrical components. But first, it's important to understand some of the theory behind impedance itself.

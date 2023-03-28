@@ -6,6 +6,12 @@ draft = false
 tags = ["EIS", "ECM", "RC circuit"]
 +++
 
+<div style="text-align: right">
+{{% badge style="transparent" icon="pen" %}}Matthew Lacey{{% /badge %}}
+{{% badge style="blue" icon="calendar" %}}15 Feb 2023{{% /badge %}}
+</div>
+
+
 {{% notice style="green" title="Overview" icon="eye" %}}
 
 Now that we've introduced some of the maths behind impedance, and the plots we use to represent it, we can start to look at the mathematical definitions and the impedance response of two of the most basic electrical circuit components -- resistors and capacitors -- and combinations of them.

@@ -6,6 +6,12 @@ draft = false
 tags = ["EIS", "ECM", "Analysis", "Validation", "Kramers-Kronig"]
 +++
 
+<div style="text-align: right">
+{{% badge style="transparent" icon="pen" %}}Matthew Lacey{{% /badge %}}
+{{% badge style="blue" icon="calendar" %}}28 Mar 2023{{% /badge %}}
+</div>
+
+
 I will not go into too much detail about the Kramers-Kronig (or, just K-K) transform other than to say that this is a method for validating impedance data, to give you some idea of whether it’s actually possible to fit an equivalent circuit. This is the equation:
 
 ```math

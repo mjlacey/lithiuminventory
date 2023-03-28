@@ -59,3 +59,7 @@ h1 {
     text-transform: none;
 }
 
+img.rounded {
+    object-fit: cover;
+    border-radius: 50%;
+  }
