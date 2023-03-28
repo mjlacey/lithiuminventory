@@ -4,7 +4,7 @@ date: 2023-02-09T14:53:33+01:00
 draft: false
 ---
 
-Lithium Inventory is an online resource for battery science and electrochemistry.
+Lithium Inventory is an online resource for battery science and electrochemistry, founded in 2023.
 
 ## People
 
@@ -26,3 +26,7 @@ Content hosted on this website is available according to the [CC-BY-NC-ND licens
 ## Contribute!
 
 Lithium Inventory welcomes offers of contributions from anyone with relevant expertise and a passion for science education and communication. Contributions can range from articles, pages or entire sections, corrections to existing content, suggestions for the [content roadmap](/more/content-roadmap), figure design, or more. Please get in touch with Matt if you are interested in contributing.
+
+## About this website
+
+Lithium Inventory is built with [Hugo](https://gohugo.io), and based on the [Relearn](https://mcshelby.github.io/hugo-theme-relearn/index.html) theme.
