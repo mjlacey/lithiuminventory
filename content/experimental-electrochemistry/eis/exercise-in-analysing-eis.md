@@ -4,12 +4,10 @@ title = "An Exercise in Analysing EIS data"
 weight = 12
 draft = false
 tags = ["EIS", "ECM", "Analysis", "Test yourself"]
+date = "2023-03-28"
+author = "Matthew Lacey"
 +++
 
-<div style="text-align: right">
-{{% badge style="transparent" icon="pen" %}}Matthew Lacey{{% /badge %}}
-{{% badge style="blue" icon="calendar" %}}28 Mar 2023{{% /badge %}}
-</div>
 
 If you've studied all of the previous pages in this series, why not put your new-found skills to the test with a little exercise?
 

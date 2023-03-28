@@ -4,6 +4,8 @@
           <article class="default">
 {{ partial "heading-pre.html" . }}<h1 id="{{ .Title | urlize }}">{{ .Title }}</h1>{{ partial "heading-post.html" . }}
 
+{{- partial "badges.html" . -}}
+
 {{ $content | safeHTML }}
 
 <!-- Disqus -->

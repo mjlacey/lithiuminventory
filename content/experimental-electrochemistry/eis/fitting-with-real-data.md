@@ -4,12 +4,9 @@ title = "Fitting With Real Data"
 weight = 10
 draft = false
 tags = ["EIS", "ECM", "Analysis", "Fitting"]
+date = "2023-03-28"
+author = "Matthew Lacey"
 +++
-
-<div style="text-align: right">
-{{% badge style="transparent" icon="pen" %}}Matthew Lacey{{% /badge %}}
-{{% badge style="blue" icon="calendar" %}}28 Mar 2023{{% /badge %}}
-</div>
 
 
 {{% notice style="info" %}}

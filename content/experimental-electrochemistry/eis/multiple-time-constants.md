@@ -4,12 +4,9 @@ title = "Multiple Time Constants"
 weight = 3
 draft = false
 tags = ["EIS", "ECM", "RC circuit", "Analysis", "App"]
+date = "2023-03-28"
+author = "Matthew Lacey"
 +++
-
-<div style="text-align: right">
-{{% badge style="transparent" icon="pen" %}}Matthew Lacey{{% /badge %}}
-{{% badge style="blue" icon="calendar" %}}15 Feb 2023{{% /badge %}}
-</div>
 
 
 {{% notice info%}}

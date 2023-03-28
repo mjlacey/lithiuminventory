@@ -1,14 +1,11 @@
 ---
 archetype: "contentpage"
 title: "Content Roadmap"
-date: 2023-02-14T20:24:48+01:00
+date: 2023-03-28
 draft: false
+author: "Matthew Lacey"
 ---
 
-<div style="text-align: right">
-{{% badge style="transparent" icon="pen" %}}Matthew Lacey{{% /badge %}}
-{{% badge style="blue" icon="calendar" %}}28 Mar 2023{{% /badge %}}
-</div>
 
 {{% notice style="info" %}}
 This page is in draft form and in a very early stage. ML welcomes discussion and suggestions during the configuration phase!

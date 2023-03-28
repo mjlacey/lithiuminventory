@@ -4,12 +4,9 @@ title = "RC circuits"
 weight = 2
 draft = false
 tags = ["EIS", "ECM", "RC circuit"]
+date = "2023-02-15"
+author = "Matthew Lacey"
 +++
-
-<div style="text-align: right">
-{{% badge style="transparent" icon="pen" %}}Matthew Lacey{{% /badge %}}
-{{% badge style="blue" icon="calendar" %}}15 Feb 2023{{% /badge %}}
-</div>
 
 
 {{% notice style="green" title="Overview" icon="eye" %}}
