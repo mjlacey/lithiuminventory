@@ -8,6 +8,18 @@ date = 2023-03-29T09:44:11+02:00
 
 ## Glossary
 
+###### Electrode potential
+
+Formally defined as the electromotive force (emf) of a galvanic cell comprising the electrode to be characterised and a reference electrode. Consequently, all electrode potentials must be stated versus the appropriate reference. By convention, standard electrode potentials are given relative to the standard hydrogen electrode (SHE). In lithium battery research, it is common to consider electrode potentials relative to a reference electrode comprising a lithium metal electrode immersed in a solution containing a lithium salt (Li/Li<sup>+</sup>).
+
+###### Negative electrode
+
+In a rechargeable electrochemical cell, the negative electrode is the electrode with the **lower** electrode potential during normal operation, and functions as the anode (i.e., is oxidised) during discharge. The use of the term "negative electrode" avoids ambiguity when distinguishing electrodes as formally it is the anode only on discharge (and hence, when charging, becomes the cathode).
+
+###### Positive electrode
+
+In a rechargeable electrochemical cell, the positive electrode is the electrode with the **higher** electrode potential during normal operation, and functions as the cathode (i.e., is reduced) during discharge. The use of the term "positive electrode" avoids ambiguity when distinguishing electrodes as formally it is the cathode only on discharge (and hence, when charging, becomes the anode).
+
 ###### Transference number
 
 In electrolytes, the transference number, {{% math %}}$T_i${{% /math %}}, is defined as the number of moles of species {{% math %}}$i${{% /math %}} transferred by migration, per Faraday of charge (1 F = 96485 C). The sum of the transport numbers of all ionic species in an electrolyte is 1, but {{% math %}}$T_i${{% /math %}} does not have any upper or lower bounds.

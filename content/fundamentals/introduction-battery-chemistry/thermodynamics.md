@@ -19,13 +19,13 @@ On this page we'll look at the origin of cell voltage using a classic battery sy
 
 ## Half reactions
 
-Let's start with a very simple example of a battery: the [Daniell cell](https://en.wikipedia.org/wiki/Daniell_cell). This battery uses a negative electrode of zinc metal, immersed in a solution of a zinc salt, and a positive electrode of copper metal, immersed in a solution of a copper salt. Between the electrodes is a porous separator, which also separates the two salt solutions, but allows the transfer of ions between the two electrodes. A schematic of the Daniell cell is shown below.
+Let's start with a very simple example of a battery: the [Daniell cell](https://en.wikipedia.org/wiki/Daniell_cell). This battery uses a [negative electrode](/more/definitions-conventions/#negative-electrode) of zinc metal, immersed in a solution of a zinc salt, and a [positive electrode](/more/definitions-conventions/#positive-electrode) of copper metal, immersed in a solution of a copper salt. Between the electrodes is a porous separator, which also separates the two salt solutions, but allows the transfer of ions between the two electrodes. A schematic of the Daniell cell is shown below.
 
 ![Daniell cell](/images/fundamentals/introduction-battery-chemistry/daniellcell.svg?width=450px)
 
-If there is no external electronic connection between the electrodes, there is an equilibrium between the metal and the ions in the electrolyte, which we can write as a **[half reaction](https://en.wikipedia.org/wiki/Half-reaction)**, in which the metal is the reduced form, and the dissolved ion of that metal is the oxidised form. Any pair of corresponding reduced and oxidised species is referred to as a **redox couple**. For each redox couple, there is an associated **standard electrode potential**, which describes the relative power of the reduced form to act as a reducing agent; that is, its tendency to release its electrons to become its oxidised form. For the Daniell cell, we have the following half-reactions:
+If there is no external electronic connection between the electrodes, there is an equilibrium between the metal and the ions in the electrolyte, which we can write as a **[half reaction](https://en.wikipedia.org/wiki/Half-reaction)**, in which the metal is the reduced form, and the dissolved ion of that metal is the oxidised form. Any pair of corresponding reduced and oxidised species is referred to as a **redox couple**. For each redox couple, there is an associated **[electrode potential](/more/definitions-conventions/#electrode-potential)**, which describes the relative power of the reduced form to act as a reducing agent; that is, its tendency to release its electrons to become its oxidised form. For the Daniell cell, we have the following half-reactions:
 
-At the negative electrode: {{% math %}}$\ce{Zn^{2+} <=> Zn + 2e-}${{% /math %}}, with a standard potential of -0.34 V vs SHE.
+At the negative electrode: {{% math %}}$\ce{Zn^{2+} <=> Zn + 2e-}${{% /math %}}, with a **standard** potential of -0.34 V vs SHE.
 
 At the positive electrode: {{% math %}}$\ce{Cu^{2+} <=> Cu + 2e-}${{% /math %}}, with a standard potential of +0.76 V vs SHE.
 
