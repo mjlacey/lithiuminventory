@@ -1,0 +1,10 @@
+{{ $pages := .Site.RegularPages }}
+{{ $totalPages := len $pages }}
+{{ $totalWords := 0 }}
+
+{{ range $pages }}
+  {{ $wordCount := len (split .Content " ") }}
+  {{ $totalWords = add $totalWords $wordCount }}
+{{ end }}
+
+Lithium Inventory now comprises {{ $totalWords }} words across {{ $totalPages }} pages.

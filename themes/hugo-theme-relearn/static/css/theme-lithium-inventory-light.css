@@ -62,4 +62,16 @@ h1 {
 img.rounded {
     object-fit: cover;
     border-radius: 50%;
+}
+
+.image-text-wrapper {
+    display: flex;
+    align-items: center;
+    margin: 20px 20px 20px 20px;
   }
+  
+.image-left {
+    float: none;
+    margin: 20px 20px 20px 20px;
+}
+  

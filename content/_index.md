@@ -12,3 +12,5 @@ This venture is in a very early stage and the majority of the content will come 
 
 If you are interested in contributing, please reach out to [Matt](/more/about/#matthew-j-lacey----editor).
 {{% /notice %}}
+
+{{% word_count %}}
