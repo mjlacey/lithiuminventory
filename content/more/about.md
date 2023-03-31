@@ -26,7 +26,9 @@ Content hosted on this website is available according to the [CC-BY-NC-ND licens
 
 ## Contribute!
 
-Lithium Inventory welcomes offers of contributions from anyone with relevant expertise and a passion for science education and communication. Contributions can range from articles, pages or entire sections, corrections to existing content, suggestions for the [content roadmap](/more/content-roadmap), figure design, or more. Please get in touch with Matt if you are interested in contributing.
+Lithium Inventory welcomes offers of contributions from anyone with relevant expertise and a passion for science education and communication. Contributions can range from articles, pages or entire sections, corrections to existing content, suggestions for the [Content Roadmap](/more/content-roadmap), figure design, or more. Please get in touch with Matt if you are interested in contributing.
+
+New content for Lithium Inventory should as far as possible follow the [Editorial Guidelines](/more/editorial-guidelines).
 
 ## About this website
 

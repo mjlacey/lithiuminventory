@@ -119,6 +119,6 @@ The *Explainers/deep dives* section could be a loosely-structured collection of 
 
 ## More
 
-- [x] [Nomenclature and definitions](/more/definitions-conventions/)
+- [x] [Nomenclature, definitions and conventions](/more/definitions-conventions/)
 - [ ] Community - other related initiatives
-- [ ] Editorial policy and style guide
+- [x] [Editorial Guidelines](/more/editorial-guidelines/)
