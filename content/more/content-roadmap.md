@@ -20,7 +20,7 @@ The *Battery fundamentals* chapter should provide a general introduction to batt
 - [ ] **What is a battery?** The bare essentials - basic construction, core components, function, simplest recognisable examples. No jargon.
 - #### Introduction to battery chemistry
 - [ ] **Electrochemical principles.** Definitions, conventions, potential and current, electrode/electrolyte interface
-- [ ] **Thermodynamics of batteries.** Simplified example (e.g. Daniell cell). Introduction to electrochemical series, Nernst equation, prediction of cell voltage, material selection.
+- [ ] **[Cell voltage and the Nernst equation.](/fundamentals/introduction-battery-chemistry/thermodynamics)** Simplified example (e.g. Daniell cell). Introduction to electrochemical series, Nernst equation, prediction of cell voltage, material selection.
 - [ ] **Reaction kinetics in batteries.** Introduction to kinetics of charge transfer (e.g. Butler-Volmer) and mass transport (e.g. Fick's law), and energy loss processes. Influence of factors such as temperature and current on discharge energy.
 - #### Introduction to lithium-ion battery chemistry
 - [ ] **Li-ion battery materials.** Introduction to intercalation materials, non-aqueous electrolytes, porous electrodes
@@ -32,8 +32,6 @@ The *Battery fundamentals* chapter should provide a general introduction to batt
 - [ ] **Thermal behaviour.** Reversible and irreversible heat.
 - [ ] **Performance and metrics.** Introduction to key metrics and key performance indicators (KPIs), common performance plots.
 - [ ] **History of Li-ion battery development.** Timeline, major milestones, major names
-- #### Cell development
-- [ ] **Cell formats and cell design.** Cylindrical, pouch, prismatic. Electrode thickness, material ratios...
 
 ## Battery materials
 
@@ -104,6 +102,16 @@ The *Introduction to battery modelling* chapter could provide an introduction to
 ## Battery industry
 
 The *Battery industry* chapter could provide an introduction to how the industry operates, e.g. technology transfer, automotive product development cycle, production methods, costs, key considerations for industry...
+
+- #### Cell design
+- [ ] **Cell formats.** Cylindrical, pouch, prismatic; features, pros/cons
+- [ ] **Material and electrode design.** Electrode thickness, material ratios...
+- [ ] **Production methods.** Active material synthesis at scale, electrolyte production, electrode coating, calendering, winding/stacking, filling, formation, QC...
+- [ ] **Cell cost.** Material, production costs; influence of design choices on cost
+- #### Batteries and the environment
+- [ ] **Introduction to life cycle analysis (LCA).**
+- [ ] **Environmental considerations of battery materials & battery production.**
+- [ ] **Battery recycling.**
 
 ## Explainers/deep dives
 

@@ -5,6 +5,7 @@ weight = 2
 draft = false
 author = "Matthew Lacey"
 date = 2023-03-29T12:13:29+02:00
+tags = ["Thermodynamics", "Nernst equation", "Cell voltage", "Daniell cell", "Redox"]
 +++
 
 ```math
