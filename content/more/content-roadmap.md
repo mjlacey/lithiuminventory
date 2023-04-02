@@ -21,13 +21,14 @@ The *Battery fundamentals* chapter should provide a general introduction to batt
 - #### Introduction to battery chemistry
 - [ ] **Electrochemical principles.** Definitions, conventions, potential and current, electrode/electrolyte interface
 - [ ] **[Cell voltage and the Nernst equation.](/fundamentals/introduction-battery-chemistry/thermodynamics)** Simplified example (e.g. Daniell cell). Introduction to electrochemical series, Nernst equation, prediction of cell voltage, material selection.
-- [ ] **Reaction kinetics in batteries.** Introduction to kinetics of charge transfer (e.g. Butler-Volmer) and mass transport (e.g. Fick's law), and energy loss processes. Influence of factors such as temperature and current on discharge energy.
+- [ ] **Interfacial processes in batteries.** Introduction to double-layer theory, Marcus theory of electron transfer
+- [ ] **Energy loss processes in batteries.** Introduction to kinetics of charge transfer (e.g. Butler-Volmer) and mass transport (e.g. Fick's law), and energy loss processes. Influence of factors such as temperature and current on discharge energy.
 - #### Introduction to lithium-ion battery chemistry
 - [ ] **Li-ion battery materials.** Introduction to intercalation materials, non-aqueous electrolytes, porous electrodes
 - [ ] **Thermodynamics of Li-ion batteries.** Electrode potential in intercalation materials, e.g. lattice-gas model. Origin of one- and two-phase behaviour and effect on potential vs charge
 - [ ] **Interfacial processes in Li-ion batteries.** Solid electrolyte interphase (SEI) layer
 - [ ] **Reaction kinetics in Li-ion batteries.** Models of reaction kinetics, resistance in porous electrodes (e.g. de Levie transmission line)
-- [ ] **Mass transport in Li-ion batteries.** Mass transport in the solid state. Mass transport in non-aqueous electrolytes, [transference number](/fundamentals/introduction-li-ion/transference/), concentrated solution theory
+- [ ] **Mass transport in Li-ion batteries.** Mass transport in the solid state. Mass transport in non-aqueous electrolytes, [transference number](/fundamentals/introduction-li-ion/transference/), concentrated solution theory (Stefan-Maxwell and Onsager equations).
 - [ ] **Reversibility and lifetime.** Introduction to major ageing mechanisms and modes (interfacial layer growth, loss of contact, structural degradation, lithium plating, etc.). Introduction of concepts such as loss of active material (LAM) and loss of lithium inventory (LLI).
 - [ ] **Thermal behaviour.** Reversible and irreversible heat.
 - [ ] **Performance and metrics.** Introduction to key metrics and key performance indicators (KPIs), common performance plots.
@@ -37,21 +38,26 @@ The *Battery fundamentals* chapter should provide a general introduction to batt
 
 The **Battery materials** chapter should provide an introduction to the chemistry of specific battery materials, beginning with the major commercialised families and introducing the development of new materials.
 
+- #### Current technology
 - [ ] **Introduction to major Li-ion battery families.** graphite || layered oxide (LCO, NMC, NCA), LFP, LMO, LTO; LMP (Lithium-metal-polymer)
 - [ ] **Positive electrode materials**. LCO, NMC, NCA, LMO, LFP
 - [ ] **Negative electrode materials.** Graphite, LTO. Introduction to silicon and lithium metal
 - [ ] **Electrolytes.** Materials, key properties; conductivity, transference number, viscosity, vapour pressure...
 - [ ] **Separators.** Materials, key properties; MacMullin number, Gurley number, thermal stability...
 - #### Electrode material research
-- [ ] **Mn-rich.**
+- [ ] **Mn-rich.** LMFP, LNMO, Mn-rich layered oxide, Li-rich NMC etc.
+- [ ] **Conversion electrodes**
 - #### Electrolyte material research
 - [ ] **Polymer electrolytes.**
 - [ ] **Solid electrolytes.**
 - #### Alternative chemistries
 - [ ] **Na-ion batteries.**
+    - [ ] Positive electrodes. Layered oxides, polyanions, Prussian Blue analogues
+    - [ ] Negative electrodes. Hard carbon.
+- [ ] **K-ion batteries.**
 - [ ] **Lithium-sulfur batteries.**
 - [ ] **Lithium-oxygen batteries.**
-- [ ] **Multivalent batteries.**
+- [ ] **Multivalent batteries.** Ca, Mg
 
 ## Experimental electrochemical methods
 
@@ -95,9 +101,15 @@ The *Experimental electrochemical methods* chapter should provide explanations o
 
 The *Experimental material characterisation methods* chapter could provide an introduction to key chemical/physical characterisation methods (e.g. spectroscopic methods) used in battery research, with a focus on the connection to electrochemical methods (e.g. *in situ* or *operando* methods).
 
-## Introduction to battery modelling
+## Battery modelling
 
-The *Introduction to battery modelling* chapter could provide an introduction to the principles behind battery modelling, e.g. finite element methods, MD, DFT, key models (e.g. P2D, single particle model), key software packages, validation of models.
+The *Battery modelling* chapter could provide an introduction to the principles behind battery modelling at all relevant scales, e.g. finite element methods, MD, DFT, key models (e.g. P2D, single particle model), key software packages, validation of models.
+
+- #### Materials modelling
+    - [ ] Introduction to particle-based simulation techniques
+- #### Cell modelling
+    - [ ] Introduction to finite element methods
+    - [ ] The Newman model
 
 ## Battery industry
 
