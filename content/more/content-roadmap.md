@@ -43,7 +43,7 @@ The **Battery materials** chapter should provide an introduction to the chemistr
 - [ ] **Positive electrode materials**. LCO, NMC, NCA, LMO, LFP
 - [ ] **Negative electrode materials.** Graphite, LTO. Introduction to silicon and lithium metal
 - [ ] **Electrolytes.** Materials, key properties; conductivity, transference number, viscosity, vapour pressure...
-- [ ] **Separators.** Materials, key properties; MacMullin number, Gurley number, thermal stability...
+- [x] **[Separators.](/materials/current/separators)** Materials, key properties; MacMullin number, Gurley number, thermal stability...
 - #### Electrode material research
 - [ ] **Mn-rich.** LMFP, LNMO, Mn-rich layered oxide, Li-rich NMC etc.
 - [ ] **Conversion electrodes**
@@ -91,6 +91,7 @@ The *Experimental electrochemical methods* chapter should provide explanations o
 - [ ] **Direct current methods**. DCIR, ICI
 - [ ] **Diffusion coefficient measurement.** GITT, PITT
 - [x] [**Transference number measurement.**](/experimental-electrochemistry/transference-number-measurement/) Bruce-Vincent method, Hittorf method, Balsara-Newman methods
+- [x] [**MacMullin number measurement**](/experimental-electrochemistry/macmullin-number-measurement)
 - #### Best practices
 - [ ] **Experimental design.**
 - [ ] **Recording data.**

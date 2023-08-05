@@ -26,7 +26,7 @@ The most common experimental method for measuring *t<sub>+</sub>* in a polymer e
 
 The method involves the polarisation of a *symmetrical* cell (i.e., an electrochemical cell with two Li metal electrodes) by a small potential difference, to induce a small concentration gradient, until the system reaches a steady state, with a concentration gradient that does not change further with time:
 
-![Concentration gradient in a symmetrical cell](/images/experimental-electrochemistry/transportnumber2.png?width=600px)
+![Concentration gradient in a symmetrical cell](/images/experimental-electrochemistry/transportnumber2.svg?width=600px)
 
 This method assumes - as I previously mentioned - that the ions in the electrolyte are perfectly dissociated. More specifically, that the electrolyte obeys the Nernst-Einstein equation, which relates the conductivity (and the electrical mobility) of an ion to its diffusion coefficient:
 
@@ -44,7 +44,7 @@ $$I_0 = \frac{\sigma}{k} \Delta V$$
 
 where {{% math %}}$k${{% /math %}} is the cell constant, i.e., the ratio of the distance between the electrodes to the surface area. At steady state, the concentration gradient does not change with time. The migration of the anion is exactly balanced by its diffusion in the opposite direction (that is, the net flux of anions is zero - this has to be the case, because the electrode surfaces are "blocking" to the anions). Meanwhile, the current carried by Li<sup>+</sup> is carried exactly 50:50 by migration and diffusion.
 
-![Steady state current flow in a symmetrical cell](/images/experimental-electrochemistry/transportnumber3.png?width=450px)
+![Steady state current flow in a symmetrical cell](/images/experimental-electrochemistry/transportnumber3.svg?width=450px)
 
 The end result of all this is that for **very small potential differences (< 10 mV)**, the current flow at steady state is given simply by:
 
@@ -58,7 +58,7 @@ Or, indeed:
 $$t_+ = \frac{I_{ss}}{I_0}$$
 ```
 
-![Current flow during polarisation of a symmetrical cell](/images/experimental-electrochemistry/transportnumber5.png?width=300px)
+![Current flow during polarisation of a symmetrical cell](/images/experimental-electrochemistry/transportnumber5.svg?width=300px)
 
 However! In real systems we have interfacial resistances resulting from surface layers and charge transfer kinetics, so we cannot apply this directly. These resistances may also change with time and concentration. We need to measure the interfacial resistance both initially and at steady state, and ideally the impedance spectra will look something like this:
 
@@ -105,7 +105,7 @@ One of the established and reliable methods for calculating the true transferenc
 
 The reason it needs to be four or more is that there must be at least two reference sections where the concentration of the salt are identical to each other. During the passage of charge, migration transfers cations and anions to the electrode surface. If the passage of charge is stopped before a concentration *gradient* forms in the reference sections, then the transfer of cations and ions into the other sections is due only to migration, and not diffusion. No assumptions about the nature of the electrolyte need to be made!
 
-![Schematic of a Hittorf experiment](/images/experimental-electrochemistry/hittorf.png?width=600px)
+![Schematic of a Hittorf experiment](/images/experimental-electrochemistry/transportnumber1.svg?width=600px)
 
 In this case, there is a change in the amount of salt in section 1 in the diagram above according to:
 

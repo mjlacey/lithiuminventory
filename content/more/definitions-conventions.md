@@ -46,9 +46,10 @@ In electrolytes, the transport number, {{% math %}}$t_i${{% /math %}}, is define
 |{{% math %}}$k${{% /math %}} | <ol><li>Cell constant</li><li>Diffusion resistance coefficient</li></ol> | <ol><li>cm<sup>-1</sup></li><li>Ω s<sup>-1/2</sup></li></ol> |          | 
 |{{% math %}}$\mu_i${{% /math %}} | Chemical potential of species {{% math %}}$i${{% /math %}} | kJ mol<sup>-1</sup> |       |
 |{{% math %}}$Ne${{% /math %}} | Newman number | dimensionless | See [Transference number measurement](/experimental-electrochemistry/transference-number-measurement/#measuring-tsubsub-the-bruce-vincent-method)     |
+|{{% math %}}$N_M${{% /math %}} | MacMullin number | dimensionless | See [MacMullin number measurement](/experimental-electrochemistry/macmullin-number-measurement) |
 |{{% math %}}$\omega${{% /math %}} | Angular frequency | rad s<sup>-1</sup> |             |
 |{{% math %}}$Q${{% /math %}} | Charge | C or Ah | 1 Ah = 3600 C             |
-|{{% math %}}$Q_0${{% /math %}} | Constant phase element parameter | S s<sup>s</sup> | See [Constant phase elements](/experimental-electrochemistry/eis/constant-phase-element/)           |
+|{{% math %}}$Q_0${{% /math %}} | Constant phase element parameter | S s<sup>n</sup> | See [Constant phase elements](/experimental-electrochemistry/eis/constant-phase-element/)           |
 |{{% math %}}$R${{% /math %}} | <ol><li>Ideal gas constant</li><li>Electrical resistance</li></ol> | <ol><li>J K<sup>-1</sup> mol<sup>-1</sup></li><li>Ω</li></ol> | <ol><li>{{% math %}}$R${{% /math %}} = 8.314 J K<sup>-1</sup> mol<sup>-1</sup></li></ol> |
 |{{% math %}}$\sigma_i${{% /math %}} | Partial conductivity of species {{% math %}}$i${{% /math %}} | S cm<sup>-1</sup> |       |
 |{{% math %}}$\sigma${{% /math %}} | <ol><li>Electrical or ionic conductivity</li><li>Warburg coefficient</li></ol> | <ol><li>S cm<sup>-1</sup></li><li>Ω s<sup>-1/2</sup></li></ol> | <ol><li></li><li>See [Diffusion Impedance](/experimental-electrochemistry/eis/diffusion-impedance/)</li></ol>      |
