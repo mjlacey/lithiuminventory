@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 284.52">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Helvetica-Oblique, Helvetica;
+        font-size: 24px;
+        font-style: oblique;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #261c15;
+      }
+
+      .cls-3 {
+        stroke: #f62301;
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+        stroke-linecap: square;
+        stroke-miterlimit: 10;
+        stroke-width: 2.5px;
+      }
+
+      .cls-5 {
+        fill: #f7f7f2;
+      }
+
+      .cls-4 {
+        stroke: #261c15;
+      }
+    </style>
+  </defs>
+  <rect class="cls-5" width="360" height="280"/>
+  <g>
+    <line class="cls-4" x1="34.23" y1="248.89" x2="334.23" y2="248.89"/>
+    <polygon class="cls-2" points="331.26 253.25 347.52 248.89 331.26 244.54 331.26 253.25"/>
+  </g>
+  <text class="cls-1" transform="translate(172.49 272.98)"><tspan x="0" y="0">t</tspan></text>
+  <text class="cls-1" transform="translate(10.56 145.56)"><tspan x="0" y="0">I</tspan></text>
+  <text class="cls-1" transform="translate(66.93 44.89)"><tspan x="0" y="0">I</tspan></text>
+  <text class="cls-1" transform="translate(73.6 47.88) scale(.58)"><tspan x="0" y="0">0</tspan></text>
+  <path class="cls-3" d="m34.42,73.49c1.55,11.66,5.88,30.94,19.14,51.06,19.03,28.89,46.61,39.51,61.66,45.45,25.23,9.96,42.77,14.55,75.28,15.39,23.14.59,74.96.53,132.49-.32"/>
+  <text class="cls-1" transform="translate(298.11 150.34)"><tspan x="0" y="0">I</tspan></text>
+  <text class="cls-1" transform="translate(304.77 153.33) scale(.58)"><tspan x="0" y="0">ss</tspan></text>
+  <g>
+    <line class="cls-4" x1="65.98" y1="48.12" x2="47.13" y2="65.61"/>
+    <polygon class="cls-2" points="46.41 60.83 38.2 73.89 51.84 66.68 46.41 60.83"/>
+  </g>
+  <g>
+    <line class="cls-4" x1="297.85" y1="154.34" x2="279" y2="171.83"/>
+    <polygon class="cls-2" points="278.29 167.05 270.07 180.11 283.72 172.9 278.29 167.05"/>
+  </g>
+  <g>
+    <line class="cls-4" x1="34.23" y1="248.3" x2="34.23" y2="18.3"/>
+    <polygon class="cls-2" points="38.59 21.27 34.23 5.01 29.87 21.27 38.59 21.27"/>
+  </g>
+</svg>
