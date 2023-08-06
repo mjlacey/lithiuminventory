@@ -8,6 +8,10 @@ author = "Marcel Drüschler and Matthew Lacey"
 date = "2023-08-05"
 +++
 
+{{% notice style="info" %}}
+This page is incomplete. If you're interested in contributing, please check our [About](/more/about) page, information for interested contributors and get in touch!
+{{% /notice %}}
+
 Let us focus on an important component of Li-ion batteries: the separator. 
 The separator is a very thin porous membrane that is made of an electrically insulating material and prevents the electrodes from being in direct contact with each other. Important factors that influence the performance of a separator as part of the Li-ion battery are:
 
@@ -47,6 +51,10 @@ The separator material:
 ## Common materials
 
 Battery separators in commercial use are most typically porous poly(ethylene) or poly(propylene). Thin coatings (ca. 2 µm) of aluminium oxide (Al<sub>2</sub>O<sub>3</sub>) or boehmite (AlO(OH)) particles on one or both sides are common, to enhance mechanical, thermal and electrochemical stability.
+
+## Key metrics
+
+- **MacMullin number**. A measure of the reduction in effective ionic conductivity of the electrolyte layer caused by the separator. [Read more about MacMullin number measurement](/experimental-electrochemistry/macmullin-number-measurement).
 
 ## Supporting literature
 
