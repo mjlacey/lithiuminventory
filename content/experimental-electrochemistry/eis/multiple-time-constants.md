@@ -8,6 +8,11 @@ date = "2023-03-28"
 author = "Matthew Lacey"
 +++
 
+{{% notice style="green" title="Overview" icon="eye" %}}
+
+Here, we'll look at the series combination of two parallel RC circuits, and in particular how the relaxation time constants influence our interpretation of the results.
+
+{{% /notice %}}
 
 Let's consider the impedance of this circuit:
 

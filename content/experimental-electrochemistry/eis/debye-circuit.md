@@ -8,8 +8,10 @@ date = "2023-03-28"
 author = "Matthew Lacey"
 +++
 
-{{% notice style="info" %}}
-This content has been transferred from lacey.se and is not updated for this site yet.
+{{% notice style="green" title="Overview" icon="eye" %}}
+
+The Debye circuit is a common model used for determining ionic conductivity in polymer electrolytes. However, it can occasionally cause confusion and misinterpretation of results as the visibility of some processes in the impedance spectrum can depend on the material properties and experimental conditions. We'll take a look at why this might be on this page.
+
 {{% /notice %}}
 
 The Debye circuit is often used to interpret the impedance spectra of polymer electrolyte films sandwiched between blocking electrodes (i.e., electrodes that don’t undergo any reaction themselves), such as steel, or gold. This is a common method for calculating ionic conductivity of these materials. The circuit looks like this:
@@ -20,7 +22,7 @@ where R<sub>i</sub> is the ionic resistance, C<sub>dl</sub> is the double layer 
 
 It is important to account for the dielectric capacitance when making these measurements, because of the small inter-electrode distance (giving a higher dielectric capacitance) and a much higher ionic resistance of a polymer electrolyte than a liquid electrolyte (often 3 orders of magnitude higher, or more).
 
-You should now start to see how the relaxation frequency associated with the semicircle that arises from the parallel R<sub>i</sub>-C<sub>d</sub> combination might well appear in the high frequency (1 kHz – 1 MHz) part of an impedance measurement, where it would normally be well outside the measurable range if the electrolyte was a more conductive liquid. Failure to account for this can lead the experimentalist to mistakenly assign the ionic resistance to the highest-frequency intercept of the real axis (it does happen, I’m afraid).
+You should now start to see how the relaxation frequency associated with the semicircle that arises from the parallel R<sub>i</sub>-C<sub>d</sub> combination might well appear in the high frequency (1 kHz – 1 MHz) part of an impedance measurement, where it would normally be well outside the measurable range if the electrolyte was a more conductive liquid. Failure to account for this can lead the experimentalist to mistakenly assign the ionic resistance to the highest-frequency intercept of the real axis and the lower frequency resistance to some unknown charge transfer resistance (it does happen, I’m afraid).
 
 ## Visualisation
 
