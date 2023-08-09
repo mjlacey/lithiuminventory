@@ -37,11 +37,11 @@ And that's all there is to it. You will see impedance responses with this sort o
 
 A typical Nyquist plot for the response of a Randles circuit is shown below. The distinctive shape of the Nyquist plot for the Randles circuit is the semicircle created by the R<sub>i</sub>-(R<sub>ct</sub>C<sub>dl</sub>) portion of the circuit, followed by the 45° line characteristic of the Warburg impedance. These two separate parts of the circuit are indicated by the dotted lines on the plot.
 
-![](/images/experimental-electrochemistry/eis/nyquist-randles.png?width=500px)
+![Nyquist plot for the Randles circuit](/images/experimental-electrochemistry/eis/nyquist-randles.png?width=500px)
 
 The Bode plot for the same circuit follows below. As you will have seen on previous pages, we can similarly extract the relaxation frequency for the R<sub>ct</sub>C<sub>dl</sub> time constant from the peak in Z'' in the Bode plot.
 
-![](/images/experimental-electrochemistry/eis/bode-randles.png?width=400px)
+![Bode plot for the Randles circuit](/images/experimental-electrochemistry/eis/bode-randles.png?width=400px)
 
 Parameters for both of these plots: R<sub>i</sub> = 1 Ω, R<sub>ct</sub> = 4 Ω, C<sub>dl</sub> = 10<sup>-5</sup> F, σ = 10 Ω s<sup>-1/2</sup>, in the range 1 MHz - 1 Hz.
 
