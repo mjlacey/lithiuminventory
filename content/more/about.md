@@ -19,10 +19,13 @@ var mvienuq = ['m','s','.','a','a','s','a','"','a','e','h','"','s','>',':','m','
 // --></script>
 <noscript>Please enable Javascript to see the email address</noscript>
 
-#### Contributors
+#### Content authors
+
+- **Dr Marcel Drüschler**, rhd instruments GmbH & Co KG
+
+#### Other content contributors
 
 - **Dr Sam Cooper**, Imperial College London
-- **Dr Marcel Drüschler**, rhd instruments GmbH & Co KG
 - **Dr Khaled Mohammadi**, Université de Montpellier
 
 
