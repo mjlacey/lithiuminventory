@@ -108,7 +108,7 @@ Semicircles in the Nyquist plot are very common in electrochemical impedance, an
 You’ll also note that I’ve marked the very top of the semicircle with *f\**. This is known as the relaxation frequency, and relates to the [RC time constant](https://en.wikipedia.org/wiki/RC_time_constant) of the circuit. From the previous equation, you will see that the peak of the semicircle occurs when {{% math %}}$\omega RC = 1${{% /math %}}. The time constant is then defined as follows:
 
 ```math
-$$ \tau = \frac{1}{\omega} = \frac{1}{2 \pi f} = RC$$
+$$ \tau = \frac{1}{\omega} = \frac{1}{2 \pi f} = RC \tag{8}$$
 ```
 
 This is an important concept in EIS, because it tells us something about the timescales on which different processes are occurring. This equation also allows you to calculate capacitances in these elements knowing only the resistance (from the diameter) and the relaxation frequency.
@@ -120,7 +120,7 @@ This is where the Bode plot comes in handy. The top of the semicircle simply app
 Since I simulated the circuit with values of R = 5 Ω and C = 1 mF, you should be able to follow that:
 
 ```math
-$$f^* = \frac{1}{2 \pi RC} = \frac{1}{2 \pi \times 5 \text{ } \Omega \times 10^{-3} \text{ F}} = 31.83 \text{ Hz}$$
+$$f^* = \frac{1}{2 \pi RC} = \frac{1}{2 \pi \times 5 \text{ } \Omega \times 10^{-3} \text{ F}} = 31.83 \text{ Hz} \tag{9}$$
 ```
 
 and see on the Bode plot above that the peak is at around 32 Hz.

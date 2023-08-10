@@ -3,7 +3,7 @@ archetype = "contentpage"
 title = "Transference number measurement"
 weight = 8
 draft = false
-tags = ["Transport", "Transference", "Electrolyte", "Mass Transport"]
+tags = ["Transport", "Transference", "Electrolyte", "Mass Transport", "Polymer Electrolyte"]
 author = "Matthew Lacey"
 date = "2023-03-28"
 +++

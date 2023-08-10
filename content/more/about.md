@@ -19,10 +19,14 @@ var mvienuq = ['m','s','.','a','a','s','a','"','a','e','h','"','s','>',':','m','
 // --></script>
 <noscript>Please enable Javascript to see the email address</noscript>
 
-#### Contributors
+#### Content authors
 
 - **Dr Marcel Drüschler**, rhd instruments GmbH & Co KG
-- **Khaled Mohammadi**, Université de Montpellier
+
+#### Other content contributors
+
+- **Dr Sam Cooper**, Imperial College London
+- **Dr Khaled Mohammadi**, Université de Montpellier
 
 
 ## Licensing
@@ -37,4 +41,4 @@ New content for Lithium Inventory should as far as possible follow the [Editoria
 
 ## About this website
 
-Lithium Inventory is built with [Hugo](https://gohugo.io), and based on the [Relearn](https://mcshelby.github.io/hugo-theme-relearn/index.html) theme.
+Lithium Inventory is built with [Hugo](https://gohugo.io), based on the [Relearn](https://mcshelby.github.io/hugo-theme-relearn/index.html) theme, and deployed with [Netlify](https://www.netlify.com/).
