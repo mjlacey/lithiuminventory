@@ -58,4 +58,8 @@ Battery separators in commercial use are most typically porous poly(ethylene) or
 
 ## Supporting literature
 
+<small>
+
 `[1]` P. Arora, Z.Zhang, "Battery Separators", **Chem. Rev.** 2004, 104, 10, 4419 -- 4462 [[link](https://doi.org/10.1021/cr020738u)]
+
+</small>

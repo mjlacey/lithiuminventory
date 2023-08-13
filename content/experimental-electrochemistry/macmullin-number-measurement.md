@@ -71,8 +71,12 @@ One might now ask the question: Why do you typically not find the MacMullin numb
 
 ## Supporting literature
 
+<small>
+
 `[1]` M. J. Martínez, S. Shimpalee, J. W. Van Zee, Measurement of MacMullin Numbers for PEMFC Gas-Diffusion Media, J. Electrochem. Soc., 2009, 156 (1), B80-B85.
 
 `[2]` R. Raccichini, L. Furness, J. W. Dibden, J. R. Owen, N. García-Araez, Impedance Characterization of the Transport Properties of Electrolytes Contained within Porous Electrodes and Separators Useful for Li-S Batteries, J. Electrochem. Soc., 2018, 165 (11), A2741-A2749.
 
 `[3]` J. Landesfeind, J. Hattendorff, A. Ehrl, W. A. Wall, H. A. Gasteiger, Tortuosity Determination of Battery Electrodes and Separators by Impedance Spectroscopy, J. Electrochem. Soc., 2016, 163 (7), A1373-A1387.
+
+</small>
