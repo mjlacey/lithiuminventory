@@ -20,12 +20,12 @@ The *Battery fundamentals* chapter should provide a general introduction to batt
 - [ ] **What is a battery?** The bare essentials - basic construction, core components, function, simplest recognisable examples. No jargon.
 - #### Introduction to battery chemistry
 - [ ] **Electrochemical principles.** Definitions, conventions, potential and current, electrode/electrolyte interface
-- [ ] **[Cell voltage and the Nernst equation.](/fundamentals/introduction-battery-chemistry/thermodynamics)** Simplified example (e.g. Daniell cell). Introduction to electrochemical series, Nernst equation, prediction of cell voltage, material selection.
+- [x] **[Cell voltage and the Nernst equation.](/fundamentals/introduction-battery-chemistry/thermodynamics)** Simplified example (e.g. Daniell cell). Introduction to electrochemical series, Nernst equation, prediction of cell voltage, material selection.
 - [ ] **Interfacial processes in batteries.** Introduction to double-layer theory, Marcus theory of electron transfer
 - [ ] **Energy loss processes in batteries.** Introduction to kinetics of charge transfer (e.g. Butler-Volmer) and mass transport (e.g. Fick's law), and energy loss processes. Influence of factors such as temperature and current on discharge energy.
 - #### Introduction to lithium-ion battery chemistry
 - [ ] **Li-ion battery materials.** Introduction to intercalation materials, non-aqueous electrolytes, porous electrodes
-- [ ] **Thermodynamics of Li-ion batteries.** Electrode potential in intercalation materials, e.g. lattice-gas model. Origin of one- and two-phase behaviour and effect on potential vs charge
+- [x] **[Thermodynamics of Li-ion batteries.](/fundamentals/introduction-li-ion/thermodynamics-of-li-ion)** Electrode potential in intercalation materials, e.g. lattice-gas model. Origin of one- and two-phase behaviour and effect on potential vs charge
 - [ ] **Interfacial processes in Li-ion batteries.** Solid electrolyte interphase (SEI) layer
 - [ ] **Reaction kinetics in Li-ion batteries.** Models of reaction kinetics, resistance in porous electrodes (e.g. de Levie transmission line)
 - [ ] **Mass transport in Li-ion batteries.** Mass transport in the solid state. Mass transport in non-aqueous electrolytes, [transference number](/fundamentals/introduction-li-ion/transference/), concentrated solution theory (Stefan-Maxwell and Onsager equations).
