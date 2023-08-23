@@ -31,7 +31,9 @@ The *Battery fundamentals* chapter should provide a general introduction to batt
 - [ ] **Mass transport in Li-ion batteries.** Mass transport in the solid state. Mass transport in non-aqueous electrolytes, [transference number](/fundamentals/introduction-li-ion/transference/), concentrated solution theory (Stefan-Maxwell and Onsager equations).
 - [ ] **Reversibility and lifetime.** Introduction to major ageing mechanisms and modes (interfacial layer growth, loss of contact, structural degradation, lithium plating, etc.). Introduction of concepts such as loss of active material (LAM) and loss of lithium inventory (LLI).
 - [ ] **Thermal behaviour.** Reversible and irreversible heat.
+- [ ] **Safety.** Introduction to safety aspects related to battery materials; chemical hazards and thermal runaway.
 - [ ] **Performance and metrics.** Introduction to key metrics and key performance indicators (KPIs), common performance plots.
+- [ ] **Performance limitations.** Discussion of common performance limitations, considering the relative contributions of different factors discussed earlier in the chapter
 - [ ] **History of Li-ion battery development.** Timeline, major milestones, major names
 
 ## Battery materials
@@ -45,9 +47,12 @@ The **Battery materials** chapter should provide an introduction to the chemistr
 - [ ] **Electrolytes.** Materials, key properties; conductivity, transference number, viscosity, vapour pressure...
 - [x] **[Separators.](/materials/current/separators)** Materials, key properties; MacMullin number, Gurley number, thermal stability...
 - #### Electrode material research
+- [ ] **Silicon.** Discussion of the various approaches to silicon electrodes
 - [ ] **Mn-rich.** LMFP, LNMO, Mn-rich layered oxide, Li-rich NMC etc.
 - [ ] **Conversion electrodes**
 - #### Electrolyte material research
+- [ ] **Electrolyte additives.**
+- [ ] **High voltage electrolytes.**
 - [ ] **Polymer electrolytes.**
 - [ ] **Solid electrolytes.**
 - #### Alternative chemistries
@@ -117,14 +122,22 @@ The *Battery modelling* chapter could provide an introduction to the principles 
 The *Battery industry* chapter could provide an introduction to how the industry operates, e.g. technology transfer, automotive product development cycle, production methods, costs, key considerations for industry...
 
 - #### Cell design
-- [ ] **Cell formats.** Cylindrical, pouch, prismatic; features, pros/cons
+- [ ] **Cell formats.** Cylindrical, pouch, prismatic; features, pros/cons, safety features
+- [ ] **Predicting cell level performance.**
 - [ ] **Material and electrode design.** Electrode thickness, material ratios...
 - [ ] **Production methods.** Active material synthesis at scale, electrolyte production, electrode coating, calendering, winding/stacking, filling, formation, QC...
 - [ ] **Cell cost.** Material, production costs; influence of design choices on cost
+- [ ] **Battery cell safety.** Considerations of safety that arise on cell level.
+- [ ] **Fast charging.** Limitations to fast charging, strategies to improve charging speed
+- #### Cell-level analytics
+- [ ] **Electrochemical characterisation in industry.**
+- [ ] **Post mortem and teardown analysis.**
 - #### Batteries and the environment
 - [ ] **Introduction to life cycle analysis (LCA).**
 - [ ] **Environmental considerations of battery materials & battery production.**
 - [ ] **Battery recycling.**
+- [ ] **Ethical and geopolitical considerations.**
+- [ ] **Standards and regulations.**
 
 ## Explainers/deep dives
 
